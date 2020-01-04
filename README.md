@@ -9,4 +9,4 @@ virtualenv .
 source bin/activate
 
 pip install gazpacho selenium
-python lottosplit.py --year 1994 was
+python lottosplit.py --year 1994
